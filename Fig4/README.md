@@ -1,5 +1,5 @@
 ## Description:
-The folder [`MRIimages`](lik/todo) contains the MRI images taken with the `scanner 0.25T G-scan Brio, Esaote SpA (Genoa, Italy)` scanner.
+The folder [`MRIimages`](https://github.com/Foadsf/PneuAct_ICRA2018/tree/master/Fig4/MRIimages) contains the MRI images taken with the `scanner 0.25T G-scan Brio, Esaote SpA (Genoa, Italy)` scanner.
 
 || No Motor | Motor Off | Motor On |
 |-|:-:|:-:|:-:|
