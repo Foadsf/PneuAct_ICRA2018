@@ -29,5 +29,3 @@ plot2 = cleanContourPlot[
     BaseStyle -> {FontFamily -> "Times", FontSize -> 10}]]
 ```
 
-## todo
-* link to Fig4.csv
