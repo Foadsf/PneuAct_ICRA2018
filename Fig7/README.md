@@ -1,11 +1,11 @@
 ## Description:
 This figure present the results of the experiment described in Figure 5., plotting an interpolated graphs of forces generated in a cylinder piston with different nominal
 
-`Fig7_1.csv` is the force measurements (N) for cylinder-pistons with different clearances (first Row mm) at different input pressures (First column Bar). It should be noted that the clearances are nominal values based on the original CAD files not the actual measurements. the difference between the clearances does not necessarily represent the resolutions of the #D printing machine Fortus 250.
+[`Fig7_1.csv`](https://github.com/Foadsf/PneuAct_ICRA2018/blob/master/Fig7/Fig7_1.csv) is the force measurements (N) for cylinder-pistons with different clearances (first Row mm) at different input pressures (First column Bar). It should be noted that the clearances are nominal values based on the original CAD files not the actual measurements. the difference between the clearances does not necessarily represent the resolutions of the #D printing machine Fortus 250.
 
-`Fig7_2.csv` includes the minimum required pressure (third row Bar) to overcome the static friction and the residual forces (second row N) measured in the pressure sensor after depressurization for different clearances (first row mm).
+[`Fig7_2.csv`](https://github.com/Foadsf/PneuAct_ICRA2018/blob/master/Fig7/Fig7_2.csv) includes the minimum required pressure (third row Bar) to overcome the static friction and the residual forces (second row N) measured in the pressure sensor after depressurization for different clearances (first row mm).
 
-`Fig7_3.csv` includes the actual dimensions of the cylinders measured with a clipper. First column (`ideal gap`) is the ideal clearance in mm. second column is the ideal length of the cylinders in mm. Third column (`xy length`) is the measured length of the cylinder for the side printed horizontally. Column 4 (`z length`) is the measured length of the cylinder for the side printed vertically. As can be seen the 3D printer has a lower precision in z direction.
+[`Fig7_3.csv`](https://github.com/Foadsf/PneuAct_ICRA2018/blob/master/Fig7/Fig7_3.csv) includes the actual dimensions of the cylinders measured with a clipper. First column (`ideal gap`) is the ideal clearance in mm. second column is the ideal length of the cylinders in mm. Third column (`xy length`) is the measured length of the cylinder for the side printed horizontally. Column 4 (`z length`) is the measured length of the cylinder for the side printed vertically. As can be seen the 3D printer has a lower precision in z direction.
 
 ```Mathematica
 press[x_, fo_] = (fo +(18.369*Exp[-2.491*x]))/(29.512*Exp[-9.691*x])
