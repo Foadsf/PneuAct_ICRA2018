@@ -1,5 +1,5 @@
 ## Description:
-The file [`Fig10.csv`](todo/link) contains the Torque measurements at different Stepping frequencies and different input pressures.
+The file [`Fig10.csv`](https://github.com/Foadsf/PneuAct_ICRA2018/blob/master/Fig10/Fig10.csv) contains the Torque measurements at different Stepping frequencies and different input pressures.
 
 
 ## Mathematica:
