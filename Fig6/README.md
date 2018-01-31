@@ -1,5 +1,5 @@
 ## Description:
-In this figure the empirical model described in Equation .1 has been plotted. The mathematical model described in Equation .1 is driven from measurements using experimental setup described in Figure 5. The data points can be found in the folder [`Fig6_data`](link/todo). The folder includes `.csv` files with a naming format like `tube_l1_p3_start.csv` which means the pressure measurements for a tube of length `1m` and input pressure `3Bar` for inhale phase. Respectively the file `tube_l1_p3_end.csv` is for the same tube but during the exhale phase.
+In this figure the empirical model described in Equation .1 has been plotted. The mathematical model described in Equation .1 is driven from measurements using experimental setup described in Figure 5. The data points can be found in the folder [`Fig6_data`](https://github.com/Foadsf/PneuAct_ICRA2018/tree/master/Fig6/Fig6_data). The folder includes `.csv` files with a naming format like `tube_l1_p3_start.csv` which means the pressure measurements for a tube of length `1m` and input pressure `3Bar` for inhale phase. Respectively the file `tube_l1_p3_end.csv` is for the same tube but during the exhale phase.
 
 
 
