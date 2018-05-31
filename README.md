@@ -1,4 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YaAEoC46jfk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 # Description:
 This Repository is indented to provide additional information for the article:
 
