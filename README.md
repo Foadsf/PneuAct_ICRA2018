@@ -19,8 +19,8 @@ For each Figure used in the article extra information and measurement data will 
 * [research.utwente.nl](https://research.utwente.nl/en/publications/introducing-pneuact-parametrically-designed-mri-compatible-pneuma)
 * [Google Scholar](https://scholar.google.com/citations?user=Ph6E9AoAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/fsfarimani)
-* [pitch video](https://www.youtube.com/watch?v=YaAEoC46jfk&t=112s)
-* [spotlight video](https://www.youtube.com/watch?v=jB3x-_ucTVM&t=2s)
+* [pitch video](https://www.youtube.com/watch?v=YaAEoC46jfk)
+* [spotlight video](https://www.youtube.com/watch?v=jB3x-_ucTVM)
 * [events.infovaya.com](https://events.infovaya.com/presentation?id=33624)
 * [SurgicalRoboticsLab.nl](http://www.surgicalroboticslab.nl/publications/introducing-pneuact-parametrically-designed-non-electromagnetic-pneumatic-stepper-actuator/)
 * PneuRobotics.com
