@@ -21,6 +21,7 @@ For each Figure used in the article extra information and measurement data will 
 * [LinkedIn](https://www.linkedin.com/in/fsfarimani)
 * [pitch video](https://www.youtube.com/watch?v=YaAEoC46jfk&t=112s)
 * [spotlight video](https://www.youtube.com/watch?v=jB3x-_ucTVM&t=2s)
+* [events.infovaya.com](https://events.infovaya.com/presentation?id=33624)
 
 ## todo:
 * Adding the correct citation to the `ref.bib` file and `README.MD`
