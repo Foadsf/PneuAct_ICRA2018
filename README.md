@@ -1,7 +1,7 @@
 # Description:
 This Repository is indented to provide additional information for the article:
 
->  F. Sojoodi Farimani and S. Misra, "Introducing PneuAct: Parametrically-Designed MRI-Compatible Pneumatic Stepper Actuator," in Proc. IEEE Int. Conf. on Robotics and Automation (ICRA), vol.,Moon Year, pp.
+>  F. Sojoodi Farimani and S. Misra, "Introducing PneuAct: Parametrically-Designed MRI-Compatible Pneumatic Stepper Actuator," in Proc. IEEE Int. Conf. on Robotics and Automation (ICRA), vol.,May 2018, pp.
 
 presented at `The International Conference on Robotics and Automation (ICRA) 2018, Brisbane, Australia`. The main goal is to provide falsifiable experimental measurements required for a valid scientific publication. You may use these information only for scientific and academic purposes. It would be highly appreciated to cite to the main article using [this `.bib` file](https://github.com/Foadsf/PneuAct_ICRA2018/blob/master/ref.bib). If you are interested to use these informational for commercial pourposes please contact the authors(s) via email: f.s.farimani@gmail.com.
 
