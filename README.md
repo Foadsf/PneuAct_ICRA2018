@@ -14,6 +14,7 @@ For each Figure used in the article extra information and measurement data will 
 * Fig10: Experimental measurements in `.csv` format plus Mathematica code for interpolation and plotting
 
 ## Relevant links:
+* [IEEE](https://ieeexplore.ieee.org/document/8462697)
 * [ResearchGate](https://www.researchgate.net/publication/325895726_Introducing_PneuAct_Parametrically-Designed_MRI-Compatible_Pneumatic_Stepper_Actuator)
 * [Academia.edu](https://www.academia.edu/36884989/Introducing_PneuAct_Parametrically-Designed_MRI-Compatible_Pneumatic_Stepper_Actuator)
 * [research.utwente.nl](https://research.utwente.nl/en/publications/introducing-pneuact-parametrically-designed-mri-compatible-pneuma)
