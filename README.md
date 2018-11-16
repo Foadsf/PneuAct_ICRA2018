@@ -33,5 +33,3 @@ Pneumatic stepper motors are one of the promising alternative actuation methods 
 4.6 cm3 and resolution of 3◦ are some of the design attributes. The effects of clearance on stick-slip effect and leakage in a 3D
 printed cylinder-piston are also presented.
 
-## todo:
-* Adding the correct citation to the `ref.bib` file and `README.MD`
