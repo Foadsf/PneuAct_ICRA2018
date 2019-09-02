@@ -39,6 +39,7 @@ For each Figure used in the article extra information and measurement data will 
 ### Media coverage:
 * [Hackaday.com](https://hackaday.com/2018/07/26/an-mri-safe-3d-printed-pneumatic-stepper-motor/), [Tweet](https://twitter.com/hackaday/status/1022572481901682691)
 * [Reddit r/robotics](https://www.reddit.com/r/robotics/comments/8t0873/i_made_a_pneumatic_stepper_motor_for_mri_guided/) , [Reddit r/functionalprint](https://www.reddit.com/r/functionalprint/comments/8szqrk/i_made_a_fully_3d_printed_mri_compatible/)
+* [Unique motor can improve cancer diagnosis, utoday](https://www.utoday.nl/science/65785/unique-motor-can-improve-cancer-diagnosis)
 
 ### Awards:
 * PneuRobotics has been awarded 70K€ for [PenuARMM project](https://www.utwente.nl/en/business/research-education/innovation-programmes/pioneers-in-healthcare/projects-archief/projects2018/). 
